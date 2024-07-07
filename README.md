@@ -1,5 +1,15 @@
 # 2InvoiceApp
 
+Este proyecto es parte de un curso de UDEMY con el Profesor Guzman. 
+Angular: Creando Webapp Full Stack de cero a experto 2024
+
+Descrippciòn General: 
+Desarrollo frontend con Angular 17 y backend Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT, Socket, Redux
+
+Andrés Guzmán
+Web Developer & Traninnig Specialist TI
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
